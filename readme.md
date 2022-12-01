@@ -1,0 +1,1 @@
+This a collection of notebooks solving diverse problems from Kaggle's data sets.
